@@ -1,0 +1,8 @@
+git commit -- aptures a permanent snapshot of your staged changes and saves it to your local Git repository.
+git branch -- branch is an independent workspace where you can write code, fix bugs, or experiment with new ideas without affecting the main project.
+git checkout -- used to switch between different branches or restore files in your working directory.
+git pull --  used to download content from a remote repository (like GitHub or GitLab) and immediately update your local project with those changes.
+git push -- the exact opposite of a pull: it uploads your local commits from your computer up to a remote server (like GitHub, GitLab, or Bitbucket).
+git merge -- takes the independent lines of development history created by your branches and combines them back into a single branch
+git rebase -- rebasing rewrites project history by taking all your new commits and moving them onto the tip of another branch.
+git fetch -- downloads the latest commits, branches, and tags from a remote server (like GitHub) to your local computer, but it does not merge them into your actual code files.
